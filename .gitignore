@@ -1,0 +1,5 @@
+# build sources: the assembled file is published, the parts stay local
+00-front.md
+ch*.md
+appendix*.md
+colophon.md
