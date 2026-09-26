@@ -6,19 +6,15 @@ A one-hundred-page article on the pelican: the eight living species, the anatomy
 
 - [`pelican-article.md`](pelican-article.md): the full article, 24 chapters and 12 appendices plus a colophon. Roughly 25,100 words, which is 100 pages at standard manuscript density (12 pt, double spaced, about 250 words per page).
 
-## Contents (abridged)
+## Contents
 
-1. The Bowl-Billed Boundary Crossers
-2. Naming the Pelican: Etymology and a Family Tree
-3. The Pouch: Anatomy of a Living Net
-4. Built for Water and Wind: Skeleton, Wings, and Feathers
-5. Eight Species, One Blueprint
-6-13. Species profiles: Great White, American White, Brown, Peruvian, Australian, Dalmatian, Pink-Backed, Spot-Billed
-14-15. Feeding I and II: The Plunge-Divers; The Group Fishers
-16. Breeding Colonies: Eggs, Chicks, and the Siblicide Problem
-17. Migration, Dispersal, and Nomadism
-18-20. Pelicans and People; Conservation: From DDT to Bird Flu; The Pelican in Culture
-21-24. Research Frontiers; How to Watch a Pelican; FAQ; Conclusion
+- Chapters 1 to 5: introduction; naming, etymology, and the family tree; the pouch; skeleton, wings, and feathers; the eight species at a glance
+- Chapters 6 to 13: species profiles (Great White, American White, Brown, Peruvian, Australian, Dalmatian, Pink-Backed, Spot-Billed)
+- Chapters 14 and 15: feeding (the plunge-divers; the group fishers)
+- Chapters 16 and 17: breeding colonies and the siblicide problem; migration, dispersal, and nomadism
+- Chapters 18 to 20: pelicans and people; conservation from DDT to bird flu; the pelican in culture
+- Chapters 21 to 24: research frontiers; how to watch a pelican; FAQ; conclusion
+- Appendices A to L: species data table, timeline, glossary, further reading, three field interludes, a world tour of the great pelicanries, the shoebill and hamerkop, pouch myths debunked, the bestiary source study, colony neighborhoods, a field-mark guide, and a reader's guide to the population numbers
 
 Appendices A through L: species data table, timeline, glossary, further reading, three field interludes, a world tour of the great pelicanries, the shoebill and hamerkop, pouch myths debunked, the bestiary source study, colony neighborhoods, a field-mark guide, and a reader's guide to the population numbers.
 

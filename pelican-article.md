@@ -8,45 +8,49 @@ This article is set to standard manuscript conventions: twelve point type, doubl
 
 ## Contents
 
-Chapter 1. The Bowl-Billed Boundary Crossers
-Chapter 2. Naming the Pelican: Etymology and a Family Tree
-Chapter 3. The Pouch: Anatomy of a Living Net
-Chapter 4. Built for Water and Wind: Skeleton, Wings, and Feathers
-Chapter 5. Eight Species, One Blueprint
-Chapter 6. The Great White Pelican
-Chapter 7. The American White Pelican
-Chapter 8. The Brown Pelican
-Chapter 9. The Peruvian Pelican
-Chapter 10. The Australian Pelican
-Chapter 11. The Dalmatian Pelican
-Chapter 12. The Pink-Backed Pelican
-Chapter 13. The Spot-Billed Pelican
-Chapter 14. Feeding I: The Plunge-Divers
-Chapter 15. Feeding II: The Group Fishers
-Chapter 16. Breeding Colonies: Eggs, Chicks, and the Siblicide Problem
-Chapter 17. Migration, Dispersal, and Nomadism
-Chapter 18. Pelicans and People: A Long, Uneasy History
-Chapter 19. Conservation: From DDT to Bird Flu
-Chapter 20. The Pelican in Culture: Limericks, Books, Teams, and Brand Names
-Chapter 21. Frontiers: What Scientists Still Want to Know
-Chapter 22. How to Watch a Pelican
-Chapter 23. Frequently Asked Questions
-Chapter 24. Conclusion: Why the Pelican Endures
+**Chapters**
 
-Appendix A. Species Data Table
-Appendix B. A Timeline of the Pelican
-Appendix C. Glossary
-Appendix D. Further Reading
-Appendix E. Three Interludes from the Field
-Appendix F. A Regional Guide to the World's Great Pelicanries
-Appendix G. The Pelican's Strange Cousins
-Appendix H. Pouch Myths, Debunked
-Appendix I. The Pelican in the Bestiaries: A Source Study
-Appendix J. Sharing the Water: The Colony as a Neighborhood
-Appendix K. Reading a Pelican: A Field-Mark Guide
-Appendix L. The Numbers: What Pelican Counts Can and Cannot Tell You
+- [Chapter 1. The Bowl-Billed Boundary Crossers](#chapter-1-the-bowl-billed-boundary-crossers)
+- [Chapter 2. Naming the Pelican: Etymology and a Family Tree](#chapter-2-naming-the-pelican-etymology-and-a-family-tree)
+- [Chapter 3. The Pouch: Anatomy of a Living Net](#chapter-3-the-pouch-anatomy-of-a-living-net)
+- [Chapter 4. Built for Water and Wind: Skeleton, Wings, and Feathers](#chapter-4-built-for-water-and-wind-skeleton-wings-and-feathers)
+- [Chapter 5. Eight Species, One Blueprint](#chapter-5-eight-species-one-blueprint)
+- [Chapter 6. The Great White Pelican](#chapter-6-the-great-white-pelican)
+- [Chapter 7. The American White Pelican](#chapter-7-the-american-white-pelican)
+- [Chapter 8. The Brown Pelican](#chapter-8-the-brown-pelican)
+- [Chapter 9. The Peruvian Pelican](#chapter-9-the-peruvian-pelican)
+- [Chapter 10. The Australian Pelican](#chapter-10-the-australian-pelican)
+- [Chapter 11. The Dalmatian Pelican](#chapter-11-the-dalmatian-pelican)
+- [Chapter 12. The Pink-Backed Pelican](#chapter-12-the-pink-backed-pelican)
+- [Chapter 13. The Spot-Billed Pelican](#chapter-13-the-spot-billed-pelican)
+- [Chapter 14. Feeding I: The Plunge-Divers](#chapter-14-feeding-i-the-plunge-divers)
+- [Chapter 15. Feeding II: The Group Fishers](#chapter-15-feeding-ii-the-group-fishers)
+- [Chapter 16. Breeding Colonies: Eggs, Chicks, and the Siblicide Problem](#chapter-16-breeding-colonies-eggs-chicks-and-the-siblicide-problem)
+- [Chapter 17. Migration, Dispersal, and Nomadism](#chapter-17-migration-dispersal-and-nomadism)
+- [Chapter 18. Pelicans and People: A Long, Uneasy History](#chapter-18-pelicans-and-people-a-long-uneasy-history)
+- [Chapter 19. Conservation: From DDT to Bird Flu](#chapter-19-conservation-from-ddt-to-bird-flu)
+- [Chapter 20. The Pelican in Culture: Limericks, Books, Teams, and Brand Names](#chapter-20-the-pelican-in-culture-limericks-books-teams-and-brand-names)
+- [Chapter 21. Frontiers: What Scientists Still Want to Know](#chapter-21-frontiers-what-scientists-still-want-to-know)
+- [Chapter 22. How to Watch a Pelican](#chapter-22-how-to-watch-a-pelican)
+- [Chapter 23. Frequently Asked Questions](#chapter-23-frequently-asked-questions)
+- [Chapter 24. Conclusion: Why the Pelican Endures](#chapter-24-conclusion-why-the-pelican-endures)
 
-Colophon
+**Appendices**
+
+- [Appendix A. Species Data Table](#appendix-a-species-data-table)
+- [Appendix B. A Timeline of the Pelican](#appendix-b-a-timeline-of-the-pelican)
+- [Appendix C. Glossary](#appendix-c-glossary)
+- [Appendix D. Further Reading](#appendix-d-further-reading)
+- [Appendix E. Three Interludes from the Field](#appendix-e-three-interludes-from-the-field)
+- [Appendix F. A Regional Guide to the World's Great Pelicanries](#appendix-f-a-regional-guide-to-the-worlds-great-pelicanries)
+- [Appendix G. The Pelican's Strange Cousins](#appendix-g-the-pelicans-strange-cousins)
+- [Appendix H. Pouch Myths, Debunked](#appendix-h-pouch-myths-debunked)
+- [Appendix I. The Pelican in the Bestiaries: A Source Study](#appendix-i-the-pelican-in-the-bestiaries-a-source-study)
+- [Appendix J. Sharing the Water: The Colony as a Neighborhood](#appendix-j-sharing-the-water-the-colony-as-a-neighborhood)
+- [Appendix K. Reading a Pelican: A Field-Mark Guide](#appendix-k-reading-a-pelican-a-field-mark-guide)
+- [Appendix L. The Numbers: What Pelican Counts Can and Cannot Tell You](#appendix-l-the-numbers-what-pelican-counts-can-and-cannot-tell-you)
+
+- [Colophon](#colophon)
 ## Chapter 1. The Bowl-Billed Boundary Crossers
 
 Stand on any warm coast between the tropics and the temperate zone and wait. If pelicans live within a hundred kilometers, the odds are good that one will eventually cross the sky overhead in a slow, unhurried glide, wings bent like an architect's first sketch of flight. The bird is too big to be elegant and too graceful to be clumsy, and it carries in front of it the most famous piece of anatomy in the bird world: a bill with a pouch, a structure that looks improvised and works like a seine net.
